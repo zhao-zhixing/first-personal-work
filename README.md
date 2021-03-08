@@ -1,2 +1,2 @@
 # first-personal-work
-first
+first-personal-work
